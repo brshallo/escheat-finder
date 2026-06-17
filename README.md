@@ -2,7 +2,7 @@
 
 An effort to actively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, or deposit is turned over to the state ("escheatment").
 
-The goal is simple and narrow: review records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with those records, and send a message pointing the rightful owners to the **official, free** state portal to claim it.
+The goal is simple and narrow: review records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with those records, and send a message pointing the (hopefully) correctly identified owners to the **official, free** state portal to claim it.
 
 This project does **not** charge fees, file claims on the behalf of others, or sell personal information.
 
