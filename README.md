@@ -51,11 +51,3 @@ At a high level...
 
 Even though every step currently uses only public information, some of the techniques for linking a record to a person with actionable contact information could be misused by bad actors. Hence, while I'm not doing anything too fancy, I'm still working out how much detail would be safe and useful to share here. Therefore this repo is currently mostly a public facing placeholder and only describes the project at a high level. I intend to publish more on the methodology later. 
 
-## Supporting
-
-If you'd like to support my continued work on this project:
-
-💛 [Donations](https://donate.stripe.com/test_cNiaEZ5KV9B0ekv5MT0Ba00) 💛
-
-Contributions are entirely optional and have no connection to any claim, recovery process, or notification.
-
