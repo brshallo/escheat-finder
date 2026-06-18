@@ -53,9 +53,9 @@ Even though every step currently uses only public information, some of the techn
 
 ## Supporting
 
-If the project has been useful to you or you'd like to support its continued development, you are welcome to contribute/support me on Ko-Fi:
+If the project has been useful to you or you'd like to support its continued development, you are welcome to contribute/support the project:
 
-☕ 💛 [https://ko-fi.com/bryanshalloway](https://ko-fi.com/bryanshalloway) 💛 ☕
+💛 [Donate to support this project](https://donate.stripe.com/test_cNiaEZ5KV9B0ekv5MT0Ba00) 💛
 
 Contributions are entirely optional and have no connection to any claim, recovery process, or notification.
 
