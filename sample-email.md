@@ -16,7 +16,7 @@ Please verify all details independently, as I may have reached the wrong person.
 
 I am reaching out as a private individual with no affiliation to any government agency or asset-recovery service. I am not requesting a share of any claim, nor am I offering filing assistance. 
 
-If I have contacted the wrong person, or you are already pursuing a claim, please forgive the unsolicited outreach. If it turns out this message was at all helpful, I would welcome a reply letting me know. 
+If I have contacted the wrong person, or you are already pursuing a claim, please forgive the unsolicited outreach. If you have a moment, I would welcome a brief reply letting me know whether this message was helpful.
 
 Best regards, 
 Bryan Shalloway
