@@ -1,6 +1,6 @@
 # escheat-finder
 
-An effort to actively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, or deposit is turned over to the state ("escheatment").
+An effort to actively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, deposit, etc. is turned over to the state ("escheatment").
 
 The goal is simple and narrow: review public records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with the persons mentioned in those records, when a match is found, send a message pointing the (hopefully) correctly identified owner(s) to the **official, free** state portal to claim it.
 
@@ -25,7 +25,7 @@ You can search across states for your own name as well as file a claim for free 
 - Only contact individuals with records where I have **reasonably high confidence** in the identity and contact information.
 
 When I do reach out, it's a plain note that:
-- explains where I found their contact information,
+- (in most cases) explains where I found their contact information,
 - explains where I saw the public unclaimed property record and shows it,
 - links people to an **official free portal**, in CA that's [claimit.ca.gov](https://claimit.ca.gov).
 
@@ -49,5 +49,5 @@ At a high level...
 * Based on this search the confidence in the identified information is estimated
 * For records with reasonably high confidence, send a message (this is typically a small percentage of the records the search started with)
 
-Even though every step currently uses only public information, some of the techniques for linking a record to a person with actionable contact information could be misused by bad actors. Hence, while I'm not doing anything too fancy, I'm still working out how much detail would be safe and useful to share here. Therefore this repo is currently mostly a public facing placeholder and only describes the project at a high level. I intend to publish more on the methodology later. 
+Even though every step currently uses only public information, some of the techniques for linking a record to a person with actionable contact information could be potentially misused by bad actors. Hence, while I'm not doing anything too fancy, I'm still working out how much detail would be safe and useful to share here. Therefore this repo is currently mostly a public facing placeholder and only describes the project at a high level. I intend to publish more on the methodology later. 
 
