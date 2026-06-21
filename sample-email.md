@@ -4,22 +4,22 @@ This is a representative example of the courtesy note I send. Bracketed `{...}` 
 
 ---
 
+**Subject:** Public {state} unclaimed property record ({holder})
+
 Hello {Name},
 
-I found your contact information through {description of source for contact information} and wanted to send a brief courtesy note.
+I found your contact information through {description of source of contact information}.
 
-While searching California's public unclaimed property database, I came across a record that appears to be associated with your name:
+While searching California's public unclaimed property database, I found a record that may be associated with you. I'm a private individual with no affiliation to any government agency or asset-recovery service; I'm not offering assistance with reclaiming property or seeking compensation.
 
-{screenshot of the public record from claimit.ca.gov}
+{screenshot of the public record}
 
-Please verify all details independently, as I may have reached the wrong person. You can search records directly at the state-run portal claimit.ca.gov where claims can be filed free of charge.
+You can search records directly at **claimit.ca.gov**, California's state-run unclaimed property portal, where claims can be filed free of charge. {If the name on the record is misspelled or abbreviated, a note is added here: "The name may be misspelled or abbreviated in the state's records, so you may need to search it as shown."} Please verify all details independently, as I may have reached the wrong person.
 
-I am reaching out as a private individual with no affiliation to any government agency or asset-recovery service. I am not requesting a share of any claim, nor am I offering filing assistance. 
+If you review the record, I'd welcome a brief reply letting me know whether I reached the correct person.
 
-If I have contacted the wrong person, or you are already pursuing a claim, please forgive the unsolicited outreach. If you have a moment, I would welcome a brief reply letting me know whether this message was helpful.
+Best regards,
 
-Best regards, 
 Bryan Shalloway
 
-P.s. If you're curious about why I contacted you or how I identified potential matches from public records, you can find more information on the project at my github repo: https://github.com/brshallo/escheat-finder
-
+P.S. If this record is unrelated to you or this outreach is unwelcome, please accept my apologies. For context on my project to notify potential unclaimed-property owners, I've documented it here: https://github.com/brshallo/escheat-finder
