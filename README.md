@@ -2,7 +2,7 @@
 
 An effort to actively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, or deposit is turned over to the state ("escheatment").
 
-The goal is simple and narrow: review records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with those records, and send a message pointing the (hopefully) correctly identified owners to the **official, free** state portal to claim it.
+The goal is simple and narrow: review public records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with the persons mentioned in those records, when a match is found, send a message pointing the (hopefully) correctly identified owner(s) to the **official, free** state portal to claim it.
 
 This project does **not** charge fees, file claims on the behalf of others, or sell personal information.
 
@@ -12,7 +12,7 @@ This project does **not** charge fees, file claims on the behalf of others, or s
 
 Before starting this project I successfully filed my own unclaimed property claim through a free state run portal.
 
-One reason I decided to set this up is that many people are unaware these funds exist or that property transferred to a state unclaimed property program is typically converted to its cash value and no longer benefits from future appreciation. If you're new to unclaimed property and escheatment, NPR's Planet Money has a good overview:
+One reason I set this up is that many people are unaware these funds exist or that their property has been transferred to a state unclaimed property program where it is often converted to its cash value and no longer benefits from future appreciation. If you're new to unclaimed property and escheatment, NPR's Planet Money has a good overview:
 https://www.npr.org/2025/03/19/1239428617/escheat-unclaimed-property-forgotten-money
 
 You can search across states for your own name as well as file a claim for free at the National Association of Unclaimed Property Administrators (NAUPA) managed website [missingmoney.com](https://missingmoney.com/). Each state also typically runs their own unclaimed property websites, California's is [claimit.ca.gov](https://claimit.ca.gov). (I have occasionally found slight differences in which records show up when looking at the national vs state level sites.)
@@ -37,7 +37,7 @@ You can see a sample template of the email I send [sample-email.md](sample-email
 - file claims for people or offer legal/recovery services,
 - sell personal information as a product.
 
-**Asset-recovery finders in CA typically charge rates of 10%. A point here is to nudge people toward the free official process.**
+**Asset-recovery finders in CA typically charge rates of 10% (rates are often higher in other states). A point here is to nudge people toward the free official process.**
 
 ## How I connect records
 
