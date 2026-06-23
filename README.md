@@ -1,6 +1,6 @@
 # escheat-finder
 
-An effort to actively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, deposit, etc. is turned over to the state ("escheatment").
+An effort to proactively reunite people with **unclaimed property** — money held by state governments after a forgotten or unchecked account, refund, deposit, etc. is turned over to the state ("escheatment").
 
 The goal is simple and narrow: review public records of unclaimed property, try and find up-to-date contact information from public sources and websites associated with the persons mentioned in those records, when a match is found, send a message pointing the (hopefully) correctly identified owner(s) to the **official, free** state portal to claim it.
 
@@ -20,6 +20,7 @@ You can search across states for your own name as well as file a claim for free 
 ## Where I am currently focused
 
 - I'm starting with **California's** unclaimed property data,
+- Focusing on email contacts (CA recently started [effort to physically mail notices](https://sco.ca.gov/eo_pressrel_27508.html))
 - Prioritize records that are likely to be matched accurately and are meaningful enough to justify outreach,
 - For a given record, use public information to identify the person associated with a name and try to find current contact information,
 - Only contact individuals with records where I have **reasonably high confidence** in the identity and contact information.
